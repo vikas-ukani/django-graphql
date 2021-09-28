@@ -4,3 +4,4 @@ core/__pycache__/urls.cpython-38.pyc
 core/__pycache__/wsgi.cpython-38.pyc
 
 venv/
+db.sqlite3
